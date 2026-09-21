@@ -1,0 +1,11 @@
+[members]
+Adith Raghav 4
+Alex Biju Kattakayam 7
+Muhammad Shaz 34
+Sabin Santo 46
+
+[topic]
+Online Shopping Data Analyser
+
+[github]
+https://github.com/AdithRaghav/Online-shopping-data-analyser.git
