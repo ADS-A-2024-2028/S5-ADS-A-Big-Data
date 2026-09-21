@@ -1,0 +1,13 @@
+[members]
+Manaswi R 31
+Minha Najeeb P V 33
+Niyathi Nithiyanandan 37
+Parvathi Kuniyil Kattle 39
+Rasha Shirin 41
+
+[topic]
+Zomato Restaurant Analytics Platform
+
+
+[github]
+https://github.com/minhanajeeb/Big_Data_project
