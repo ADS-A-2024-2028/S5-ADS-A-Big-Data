@@ -4,10 +4,9 @@ Louis Kurian 30
 Felix Joseph 23
 K. Abhinav Ranjan 29
 
-
-[Title]
+[title]
 real time ipl score sentiment pipeline
 
-[Github]
+[github]
 https://github.com/allenjoseph12206/ipl-real-time-sentiment-analysis
 
