@@ -1,0 +1,12 @@
+[members]
+Aswin Asok K V 18
+Aadhith K 1
+Abel Mathew 2
+Sreerag N P 53
+
+[topic]
+Weather Data Analysis and Prediction Using Big Data Technologies
+
+
+[github]
+https://github.com/sreerag-np/weather-data-analysis.git
