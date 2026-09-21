@@ -1,0 +1,12 @@
+[Members]
+Manav K 32
+Amarnath A 9
+Ashith  V 17
+Muhammed Fahique 35
+
+[Topic]
+E-Commerce Customer Behavior Analytics System
+
+[Github]
+
+https://github.com/fahiq7/Customer-Segmentation-
