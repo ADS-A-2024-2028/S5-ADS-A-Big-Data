@@ -1,0 +1,11 @@
+[members]
+Jishnu Sabu 25
+Jithin Jaison 26
+James Wilson 24
+Sreedeep K K 52
+
+[topic]
+Real time fraud detection
+
+[github]
+https://github.com/jithinjaison15/real-time-fraud-detection
