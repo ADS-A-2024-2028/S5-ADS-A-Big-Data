@@ -1,10 +1,13 @@
-members - Allen joseph(L),
-Louis Kurian,
-Felix Joseph,
-K. Abinav Ranjan
+[members] 
+Allen Joseph 08
+Louis Kurian 30
+Felix Joseph 23
+K. Abhinav Ranjan 29
 
 
-Title - real time ipl score sentiment pipeline
+[Title]
+real time ipl score sentiment pipeline
 
-github - https://github.com/allenjoseph12206/ipl-real-time-sentiment-analysis
+[Github]
+https://github.com/allenjoseph12206/ipl-real-time-sentiment-analysis
 
