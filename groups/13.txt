@@ -1,0 +1,43 @@
+# Install packages if you haven't already
+# install.packages(c("ggplot2", "dplyr", "readr"))
+
+library(ggplot2)
+library(dplyr)
+library(readr)
+
+# 1. Load the processed data (Ensure these match your actual file names)
+state_data <- read_csv("state_wise.csv")
+underutilised_data <- read_csv("underutilized.csv") # Note the spelling difference in filename if applicable
+
+# 2. State-wise Performance Bar Chart
+state_plot <- ggplot(state_data, aes(x = reorder(state, -utilization_percentage), y = utilization_percentage)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  geom_hline(yintercept = 50, linetype = "dashed", color = "red", size = 1) +
+  geom_text(aes(label = paste0(utilization_percentage, "%")), vjust = -0.5) +
+  labs(
+    title = "State-wise Fund Utilisation Performance (2025)",
+    x = "State",
+    y = "Utilisation Percentage (%)"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+print(state_plot)
+ggsave("state_wise_performance.png", width = 10, height = 6)
+
+# 3. Underutilised Districts Bar Chart
+# Assuming you want to visualize the underutilised ones found
+under_plot <- ggplot(underutilised_data, aes(x = reorder(district, -utilization_percentage), y = utilization_percentage)) +
+  geom_bar(stat = "identity", fill = "firebrick") +
+  geom_text(aes(label = paste0(utilization_percentage, "%")), vjust = -0.5) +
+  labs(
+    title = "Underutilised Districts (< 50%)",
+    x = "District",
+    y = "Utilisation Percentage (%)"
+  ) +
+  theme_minimal()
+
+print(under_plot)
+ggsave("underutilised_districts.png", width = 8, height = 5)
+
+print("Visualizations generated successfully.")
