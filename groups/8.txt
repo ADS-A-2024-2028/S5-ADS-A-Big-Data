@@ -1,1 +1,12 @@
+[members]
+Anna J Joseph 13
+Anet Bino 12
+Akhila Saju 6
+Pallavi Biju 38
+Vismaya Pradeep O 56
 
+[topic]
+Government Scheme fund utilisation tracker
+
+[github]
+https://github.com/Anna7012/government-scheme-fund-tracker
