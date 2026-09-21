@@ -1,0 +1,14 @@
+[members]
+Rosmi Reji 45
+Sedna K 49
+Thanmaya P 54
+Saniya P V 47
+Arsha K 16
+
+[topic]
+Tomato leaf disease detection using Big data and machine learning
+
+
+
+[github]
+https://github.com/ros45667/tomato-disease-detection
