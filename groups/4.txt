@@ -1,0 +1,12 @@
+[members]
+Roshnitha Rojesh 44
+Anamika Vijayan 11
+Anamika Mukundan 10
+Anshwaramol P 14
+Shanil V K 50
+
+[topic]
+Crop Disease And Recommendation System
+
+[github]
+https://github.com/rochinacho1406/crop-recommendation-system.git
