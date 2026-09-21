@@ -7,6 +7,5 @@ Sreerag N P 53
 [topic]
 Weather Data Analysis and Prediction Using Big Data Technologies
 
-
 [github]
 https://github.com/sreerag-np/weather-data-analysis.git
