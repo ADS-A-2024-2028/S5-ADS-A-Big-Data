@@ -8,5 +8,4 @@ Muhammed Fahique 35
 E-Commerce Customer Behavior Analytics System
 
 [github]
-
 https://github.com/fahiq7/Customer-Segmentation-
