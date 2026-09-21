@@ -1,0 +1,11 @@
+[members]
+Afreed P majeed 5
+Don P Tom 22
+Shebin Muthalib 51
+Abhiram K V 3
+
+[topic]
+Smart Traffic Management
+
+[github]
+https://github.com/dtom41149-lgtm/SmartTrafficManagement.git
