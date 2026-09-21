@@ -8,7 +8,5 @@ Arsha K 16
 [topic]
 Tomato leaf disease detection using Big data and machine learning
 
-
-
 [github]
 https://github.com/ros45667/tomato-disease-detection
